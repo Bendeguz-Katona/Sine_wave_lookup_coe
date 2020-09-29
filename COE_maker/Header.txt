@@ -1,0 +1,15 @@
+;******************************************************************
+;******** ROM Data: 1 period of a sine-wave with radix 10 *********
+;******************************************************************
+; Memory initialization file for sine-wave lookup table. 
+; This file was created by a third-party tool.
+; The tool can be found on github under:
+; https://github.com/bendeguz-katona/Sine_wave_lookup_coe
+;
+; This .COE file specifies initialization values for a block 
+; memory with:
+; 	Depth: value
+; 	Width: value
+
+memory_initialization_radix=10;
+memory_initialization_vector=
