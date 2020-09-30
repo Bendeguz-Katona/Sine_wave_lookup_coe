@@ -22,7 +22,7 @@ max_peak = 10
 n_per = 1                        
 #Path to output .txt file:
 filepath_out = "Sine.norm.coe"
-#Path to chosen header - it will be copied to ouput first:
+#Path to chosen header - it will be copied to output first:
 filepath_header = "Header.txt"
 
 
